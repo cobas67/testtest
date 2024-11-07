@@ -4,7 +4,9 @@
 
 제 Github 아이디는
 
--   DriedSlime
+
+- DriedSlime
+- ho8ae
 -
 -
 -
